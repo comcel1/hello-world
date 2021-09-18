@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My name is Paul. I have been a professional musician for the last 20 years and am interested in developing some new skills
